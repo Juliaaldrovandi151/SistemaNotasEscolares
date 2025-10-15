@@ -85,7 +85,7 @@ Este projeto foi desenvolvido utilizando a linguagem Java. As principais tecnolo
 Atualmente, o sistema é de uso **interno**, acessado através da rede local da instituição.
 
 **Planos Futuros:**
--   [ ] Expansão para uma **versão web** (usando `Spring Boot` e `React/Angular`, por exemplo).
+-   [ ] Expansão para uma **versão web**.
 -   [ ] Desenvolvimento de um **aplicativo mobile**.
 -   [ ] Integração com outras plataformas educacionais.
 
